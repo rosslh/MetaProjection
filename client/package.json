@@ -21,7 +21,7 @@
     "gatsby-transformer-json": "^2.2.15",
     "gatsby-transformer-sharp": "^2.2.23",
     "gatsby": "^2.15.36",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "leaflet": "^1.5.1",
     "mobx-react": "^6.1.4",
     "mobx": "^5.14.2",
