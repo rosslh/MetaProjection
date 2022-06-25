@@ -42,7 +42,7 @@
     "chrome-aws-lambda": "^10.1.0",
     "cypress": "^3.4.1",
     "nearest-color": "^0.4.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "prettier": "^1.18.2",
     "puppeteer": "^10.1.0",
     "puppeteer-core": "^10.1.0",
