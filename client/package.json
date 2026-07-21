@@ -8,7 +8,7 @@
     "@emotion/core": "^11.0.0",
     "date-fns": "^3.6.0",
     "fetch-retry": "^6.0.0",
-    "gatsby": "^5.13.6",
+    "gatsby": "^5.16.1",
     "gatsby-image": "^2.2.29",
     "gatsby-plugin-emotion": "^8.13.1",
     "gatsby-plugin-manifest": "^5.13.1",
