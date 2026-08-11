@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/uptimerobot/status/m792388124-b7e4417815ddd9388914883d?up_message=online&style=flat&label=Status" alt="Uptime Robot status">
   <img src="https://img.shields.io/uptimerobot/ratio/m792388124-b7e4417815ddd9388914883d?style=flat&label=Uptime%20(1mo)" alt="Uptime Robot ratio (30 days)">
-  <a href="https://mapledeploy.ca"><img src="https://mapledeploy.ca/api/badge/shields" alt="Hosted in Canada with MapleDeploy"></a>
+  <a href="https://mapledeploy.ca/?utm_source=badge&utm_medium=referral&utm_campaign=server-f1b4d852&utm_content=markdown-shields"><img src="https://mapledeploy.ca/api/badge/shields" alt="Hosted in Canada with MapleDeploy"></a>
 </p>
 
 ## Features
@@ -48,5 +48,5 @@ MetaProjection aims to be an essential tool for Canadian voters, political analy
 - **Scraping**: [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - **Integration testing**: [Cypress](https://www.cypress.io/)
 - **Error tracking**: [Sentry](https://sentry.io/welcome/)
-- **Hosting**: [MapleDeploy](https://mapledeploy.ca/)
+- **Hosting**: [MapleDeploy](https://mapledeploy.ca/?utm_source=github&utm_medium=referral&utm_content=metaprojection-readme)
 - **Continuous integration**: [GitHub Actions](https://github.com/features/actions)
